@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Bird",
+  "description": "An addictive arcade game inspired by Flappy Bird with smooth physics, unlockable birds, multiple game modes, sound effects, and local high scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
